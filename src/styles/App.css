@@ -1,0 +1,31 @@
+.portfolio-container {
+  display: flex;
+  background: #112240;
+  position: relative; /* Ensure child elements are positioned correctly */
+  overflow: hidden; /* Prevents any unwanted scrolling */
+  cursor: default;
+}
+
+.gradient-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none; /* Ensures this layer doesn’t block interactions */
+  transition: background 0.05s ease-out;
+}
+
+.sidebar {
+  width: 350px;
+  position: fixed;
+  height: 100vh;
+  color: white;
+  padding: 20px;
+}
+
+.main-content {
+  margin-left: 350px;
+  padding: 20px;
+  flex-grow: 1;
+}
