@@ -50,18 +50,19 @@ const projectsData = [
   {
     id: 4,
     title: "Task Manager App",
-    techStack: "MERN Stack, JWT",
-    apis: "localStorage Web API",
+    techStack: "MERN Stack, Bootstrap, JWT",
+    apis: "RESTful APIs, localStorage Web API",
     libraries: "Axios",
     features: [
-      "User authentication with JWT",
-      "Task management (create, edit, update, delete)",
-      "Task prioritization and commenting",
-      "User-friendly UI"
+      "User Authentication: Secure login/register using JWT"
+      "Task Management: Create, edit, delete, and mark task status"
+      "Private Routes: Protected access based on authentication status"
+      "Real-time Updates: Auto-refresh task lists and progress tracking"
+      "Role-based Access: Different user permissions for task actions"
     ],
-    challenges: "Implementing smooth task updates and prioritization",
-    liveLink: "https://task-manager-frontend-e5tz.onrender.com/dashboard",
-    image: "./src/images/Task Manager.png"
+    challenges: "Implementing smooth task updates and UI responsiveness",
+    liveLink: "https://task-manager-app-taupe.vercel.app/login",
+    image: ""
   },
   {
     id: 5,
