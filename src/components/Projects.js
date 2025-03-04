@@ -54,10 +54,10 @@ const projectsData = [
     apis: "RESTful APIs, localStorage Web API",
     libraries: "Axios",
     features: [
-      "User Authentication: Secure login/register using JWT"
-      "Task Management: Create, edit, delete, and mark task status"
-      "Private Routes: Protected access based on authentication status"
-      "Real-time Updates: Auto-refresh task lists and progress tracking"
+      "User Authentication: Secure login/register using JWT",
+      "Task Management: Create, edit, delete, and mark task status",
+      "Private Routes: Protected access based on authentication status",
+      "Real-time Updates: Auto-refresh task lists and progress tracking",
       "Role-based Access: Different user permissions for task actions"
     ],
     challenges: "Implementing smooth task updates and UI responsiveness",
