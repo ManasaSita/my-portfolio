@@ -78,7 +78,7 @@ const projectsData = [
       "Optimized API calls with caching",
     ],
     challenges: "UI responsiveness, API optimization",
-    liveLink: "https://github.com/ManasaSita/weather-forecast",
+    liveLink: "https://manasasita.github.io/weather-forecast/",
     image: "../src/images/WeatherForecast 2.png"
   }
 ];
