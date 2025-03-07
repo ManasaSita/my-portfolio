@@ -5,7 +5,7 @@ import { RxExternalLink } from "react-icons/rx";
 const projectsData = [
   {
     id: 1,
-    title: "Bookshelf (Mini Social Network for Book Lovers)",
+    title: "Bookshelf",
     techStack: "MERN Stack, HTML/CSS",
     apis: "GoogleBooks API, localStorage Web API",
     features: [

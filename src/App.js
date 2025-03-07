@@ -5,6 +5,7 @@ import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import "./styles/App.css";
+import Certification from "./components/Certification";
 
 const App = () => {
   const [activeSection, setActiveSection] = useState("about");
@@ -44,6 +45,7 @@ const App = () => {
       <div className="main-content">
         <div id="about" className="section"><About /></div>
         <div id="skills" className="section"><Skills /></div>
+        <div id="certification" className="section"><Certification /></div>
         <div id="experience" className="section"><Experience /></div>
         <div id="projects" className="section"><Projects /></div>
       </div>
