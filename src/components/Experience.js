@@ -6,6 +6,20 @@ const Experience = () => {
   return (
     <section id="experience" className="experience-section">
       <h2 className="section-title">Experience</h2>
+
+      <div className="experience-card">
+        <h3>Freelance Full Stack Developer</h3>
+        <p className="experience-duration">Mar 2023 – Present | Bengaluru, India</p>
+        <ul className="experience-list">
+          <li>Built and deployed full-stack web applications using React.js, Node.js, Express.js, and MongoDB.</li>
+          <li>Designed and implemented RESTful APIs for seamless data exchange between front-end and back-end systems.</li>
+          <li>Developed secure authentication systems using JWT tokens to ensure user data protection.</li>
+          <li>Deployed applications efficiently using Vercel and Render, optimizing performance and scalability.</li>
+          <li>Created responsive, user-friendly interfaces with custom CSS and JavaScript for an enhanced user experience.</li>
+          <li>Integrated third-party APIs to enhance application functionality and deliver dynamic content.</li>
+        </ul>
+      </div>
+      
       <div className="experience-card">
         <h3>
           Associate Software Engineer | Full Stack Development, Glider AI {" "}

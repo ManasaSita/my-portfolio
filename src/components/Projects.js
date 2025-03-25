@@ -34,21 +34,6 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "User Management Dashboard",
-    techStack: "ReactJS, CSS",
-    apis: " JSONPlaceholder API, Fetch API,",
-    features: [
-      "View, add, edit, and delete users",
-      "Fetch user data from a mock backend API",
-      "Form validation and error handling",
-      "Implementation of pagination, responsive UI"
-    ],
-    challenges: "Handling API interactions smoothly",
-    liveLink: "https://user-management-dashboard-coral.vercel.app/",
-    image: "images/User Management.png"
-  },
-  {
-    id: 4,
     title: "Task Manager App",
     techStack: "MERN Stack, Bootstrap, JWT",
     apis: "RESTful APIs, localStorage Web API",
@@ -63,6 +48,21 @@ const projectsData = [
     challenges: "Implementing smooth task updates and UI responsiveness",
     liveLink: "https://task-manager-app-taupe.vercel.app/login",
     image: ""
+  },
+  {
+    id: 4,
+    title: "User Management Dashboard",
+    techStack: "ReactJS, CSS",
+    apis: " JSONPlaceholder API, Fetch API,",
+    features: [
+      "View, add, edit, and delete users",
+      "Fetch user data from a mock backend API",
+      "Form validation and error handling",
+      "Implementation of pagination, responsive UI"
+    ],
+    challenges: "Handling API interactions smoothly",
+    liveLink: "https://user-management-dashboard-coral.vercel.app/",
+    image: "images/User Management.png"
   },
   {
     id: 5,
