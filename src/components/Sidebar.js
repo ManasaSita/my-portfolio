@@ -55,7 +55,7 @@ const Sidebar = ({ activeSection, setActiveSection }) => {
         <a target="_blank" href="https://github.com/ManasaSita" title="GitHub Profile"><FaGithub /></a>
         <a target="_blank" href="https://www.linkedin.com/in/manasa-r-935695188/" title="LinkedIn Profile"><FaLinkedin /></a>
         <a target="_blank" href="mailto:maanumns04@gmail.com" title="Mail-Id"><FaEnvelope /></a>
-        <a target="_blank" href="https://drive.google.com/file/d/1cuzEGrP80UGXJM_e2Xs3DZ_73HvfmL-M/view?usp=drive_link" title="Resume"><FaFilePdf /></a>
+        <a target="_blank" href="https://drive.google.com/file/d/1UllkH3S8F3K_wrcxIPCeI9tUeoHriD58/view?usp=sharing" title="Resume"><FaFilePdf /></a>
         <a target="_blank" href="https://drive.google.com/file/d/1vZJoq4nJpvFwPblU74SgFhfeqgzfg_8H/view?usp=drive_link" title="Video Resume"><FaVideo /></a>
         <a target="_blank" href="https://leetcode.com/Manasa-Sita/" title="Leet Code"><SiLeetcode /></a>
         {/* <a href="tel:+91 63645 71091" title="Phone Number"><FaPhoneAlt /></a> */}
