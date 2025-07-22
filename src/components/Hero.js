@@ -21,7 +21,7 @@ const Hero = () => {
           <a href="https://drive.google.com/file/d/1vZJoq4nJpvFwPblU74SgFhfeqgzfg_8H/view?usp=drive_link" className="btn btn-outline-primary mx-2" target="_blank" rel="noopener noreferrer">
             🎥 Watch Video Resume
           </a>
-          <a href="https://drive.google.com/file/d/1SauEsoG2G4yu_fib8KnRoaJg_ZO-BQwd/view?usp=drive_link" className="btn btn-outline-primary mx-2">
+          <a href="https://drive.google.com/file/d/1UllkH3S8F3K_wrcxIPCeI9tUeoHriD58/view?usp=sharing" className="btn btn-outline-primary mx-2">
             📄 Resume
           </a>
         </div>
