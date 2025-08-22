@@ -20,6 +20,25 @@ const projectsData = [
   },
   {
     id: 2,
+    title: "Productivity Tracker",
+    techStack: "React.js, TailwindCSS, Lucide-React",
+    apis: "LocalStorage Web API",
+    libraries: "Lucide-React Icons",
+    features: [
+      "Goal management with customizable icons, colors, and XP multipliers",
+      "Task creation with priorities, notes, deadlines, and XP rewards",
+      "Recurring tasks with daily, weekly, and monthly repetition",
+      "Progress tracking (units or subtasks) with analytics",
+      "Gamification: XP, levels, streaks, and focus sessions (Pomodoro timer)",
+      "Drag-and-drop task reordering and priority management",
+      "Export and backup task/goal data in JSON"
+    ],
+    challenges: "Managing recurring tasks with streaks and progress tracking",
+    liveLink: "https://manasasita.github.io/time-manager-app/", 
+    image: ""
+  },
+  {
+    id: 3,
     title: "Cookie Clicker Game",
     techStack: "MERN Stack, HTML/CSS",
     apis: "localStorage Web API",
@@ -33,7 +52,7 @@ const projectsData = [
     image: "/images/Cookie Clicker.png"
   },
   {
-    id: 3,
+    id: 4,
     title: "Task Manager App",
     techStack: "MERN Stack, Bootstrap, JWT",
     apis: "RESTful APIs, localStorage Web API",
@@ -50,7 +69,7 @@ const projectsData = [
     image: ""
   },
   {
-    id: 4,
+    id: 5,
     title: "User Management Dashboard",
     techStack: "ReactJS, CSS",
     apis: " JSONPlaceholder API, Fetch API,",
@@ -65,7 +84,7 @@ const projectsData = [
     image: "images/User Management.png"
   },
   {
-    id: 5,
+    id: 6,
     title: "Weather Forecast App",
     techStack: "React.js, Next.js, Express.js",
     apis: "OpenWeather API, HERE Maps Geocoding API",
